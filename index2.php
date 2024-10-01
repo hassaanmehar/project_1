@@ -1,18 +1,5 @@
 <?php 
 
-	$newvar = "Hello World!";
-
+$newvar = "Hello World!";
 	echo $newvar;
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
